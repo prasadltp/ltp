@@ -8,10 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 'Material theme based on <a href="http://materializecss.com">Materialize.css</a>
-  for jekyll sites
-
-'
+description: 
 baseurl: "/matjek"
 url: https://prasadltp.github.io
 permalink: "/:year/:month/:day/:title"
