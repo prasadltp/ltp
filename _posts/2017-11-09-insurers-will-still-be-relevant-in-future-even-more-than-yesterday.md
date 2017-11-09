@@ -1,10 +1,11 @@
 ---
-title: This is Just Another Post
-date: 2017-03-24 17:30:13 Z
+title: Insurers Will Still Be Relevant in the Future, Even More Than Yesterday
+date: 2017-11-09 17:30:00 Z
 categories:
 - default
 tags:
 - test
+author: Matteo Carbone
 layout: post
 ---
 
