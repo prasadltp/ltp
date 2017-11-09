@@ -13,7 +13,7 @@ description: 'Material theme based on <a href="http://materializecss.com">Materi
 
 '
 baseurl: "/matjek"
-url: https://shawnteoh.github.io
+url: https://prasadltp.github.io
 permalink: "/:year/:month/:day/:title"
 repository: ShawnTeoh/matjek
 paginate: 5
