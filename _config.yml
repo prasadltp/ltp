@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 description: 
-baseurl: "/matjek"
-url: https://prasadltp.github.io
+baseurl: 
+url: 
 permalink: "/:year/:month/:day/:title"
 repository: prasadltp/ltp
 paginate: 5
